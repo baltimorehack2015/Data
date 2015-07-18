@@ -1,0 +1,453 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6104373,39.2996554 ]
+    },
+    "properties": {
+    "facility":"BCBIC",
+    "title":"Baltimore Central Booking and Intake Center",
+    "locale":"Baltimore",
+    "address":"300 E Madison St, Baltimore, MD 21202",
+    "orig_address":"",
+    "facility_type":"detention",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6065147,39.3003071 ]
+    },
+    "properties": {
+    "facility":"BCCC",
+    "title":"Baltimore City Correctional Center",
+    "locale":"Baltimore",
+    "address":"901 Greenmount Ave, Baltimore, MD 21202",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6097048,39.3009474 ]
+    },
+    "properties": {
+    "facility":"BCDC",
+    "title":"Baltimore City Detention Center",
+    "locale":"Baltimore",
+    "address":"401 E Eager St, Baltimore, MD 21202",
+    "orig_address":"",
+    "facility_type":"detention",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7729729,39.1339947 ]
+    },
+    "properties": {
+    "facility":"BCF",
+    "title":"Brockbridge Correctional Facility",
+    "locale":"Jessup",
+    "address":"7931 Brock Bridge Rd, Jessup, MD 20794",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Anne Arundel County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6071109,39.3007264 ]
+    },
+    "properties": {
+    "facility":"BPRU",
+    "title":"Baltimore Pre-Release Unit",
+    "locale":"Baltimore",
+    "address":"926 Greenmount Ave, Baltimore, MD 21202",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6093735,39.2983454 ]
+    },
+    "properties": {
+    "facility":"CDF",
+    "title":"Chesapeake Detention Facility (Formerly MCAC)",
+    "locale":"Baltimore",
+    "address":"401 E Madison St, Baltimore, MD 21202",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9568419,39.3706425 ]
+    },
+    "properties": {
+    "facility":"CMCF",
+    "title":"Central Maryland Correctional Facility (Formerly CLF)",
+    "locale":"Sykesville",
+    "address":"7301 Buttercup Road, Sykesville, MD 21784",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Carroll County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7786282,39.1644367 ]
+    },
+    "properties": {
+    "facility":"CMHC-J",
+    "title":"Correctional Mental Health Center - Jessup",
+    "locale":"Jessup",
+    "address":"7555 Waterloo Rd, Jessup, MD 20794",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Howard County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7867441,39.1494585 ]
+    },
+    "properties": {
+    "facility":"DRCF",
+    "title":"Dorsey Run Correctional Facility",
+    "locale":"Jessup",
+    "address":"8017 Dorsey Run Road, Jessup, MD 20794",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Howard County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7037672,38.1562161 ]
+    },
+    "properties": {
+    "facility":"ECI",
+    "title":"Eastern Correctional Institution",
+    "locale":"Westover",
+    "address":"30420 Revells Neck Rd, Westover, MD 21890",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Somerset County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6953037,38.1534918 ]
+    },
+    "properties": {
+    "facility":"ECI-A",
+    "title":"Eastern Correctional Institution Annex",
+    "locale":"Westover",
+    "address":"30430 Revells Neck Rd, Westover, MD 21890",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Somerset County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.986322,39.115693 ]
+    },
+    "properties": {
+    "facility":"EPRU",
+    "title":"Eastern Pre-Release Unit",
+    "locale":"Church Hill",
+    "address":"700 Flat Iron Square Rd, Church Hill, MD 21623",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Queen Anne's County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.613089,39.313876 ]
+    },
+    "properties": {
+    "facility":"HDU",
+    "title":"Home Detention Unit",
+    "locale":"Baltimore",
+    "address":"2100 Guilford Ave, Baltimore, MD 21218",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7814296,39.1434571 ]
+    },
+    "properties": {
+    "facility":"JCI",
+    "title":"Jessup Correctional Institution",
+    "locale":"Jessup",
+    "address":"7809 House Of Correction Rd, Jessup, MD 20794",
+    "orig_address":"[7809 - 7815] House Of Correction Rd, Jessup, MD 20794",
+    "facility_type":"correction",
+    "county":"Anne Arundel County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.7274082,39.5650229 ]
+    },
+    "properties": {
+    "facility":"MCI-H",
+    "title":"Maryland Correctional Institution - Hagerstown",
+    "locale":"Hagerstown",
+    "address":"18460 Roxbury Rd, Hagerstown, MD 21740",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7814296,39.1434571 ]
+    },
+    "properties": {
+    "facility":"MCI-J",
+    "title":"Maryland Correctional Institution - Jessup",
+    "locale":"Jessup",
+    "address":"7809 House Of Correction Rd, Jessup, MD 20794",
+    "orig_address":"[7809 - 7815] House Of Correction Rd, Jessup, MD 20794",
+    "facility_type":"correction",
+    "county":"Anne Arundel County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7735283,39.1343752 ]
+    },
+    "properties": {
+    "facility":"MCI-W",
+    "title":"Maryland Correctional Institution for Women",
+    "locale":"Jessup",
+    "address":"7932 Brock Bridge Rd, Jessup, MD 20794",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Anne Arundel County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7733041,39.1345148 ]
+    },
+    "properties": {
+    "facility":"MCPRS",
+    "title":"Maryland Correctional Pre-Release System Admin Offices",
+    "locale":"Jessup",
+    "address":"7930 Brock Bridge Rd, Jessup, MD 20794",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Anne Arundel County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.7240434,39.5644831 ]
+    },
+    "properties": {
+    "facility":"MCTC",
+    "title":"Maryland Correctional Training Center",
+    "locale":"Hagerstown",
+    "address":"18551 Roxbury Rd, Hagerstown, MD 21740",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.607125,39.299427 ]
+    },
+    "properties": {
+    "facility":"MRDCC",
+    "title":"Maryland Reception, Diagnostic and Classification Center",
+    "locale":"Baltimore",
+    "address":"550 E Madison St, Baltimore, MD 21202",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.607092,39.29934 ]
+    },
+    "properties": {
+    "facility":"MTC",
+    "title":"Metropolitan Transition Center",
+    "locale":"Baltimore",
+    "address":"954 Forrest St, Baltimore, MD 21202",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8188751,39.608067 ]
+    },
+    "properties": {
+    "facility":"NBCI",
+    "title":"North Branch Correctional Institution",
+    "locale":"Cumberland",
+    "address":"14100 Mcmullen Hwy Sw, Cumberland, MD 21502",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Allegany County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7786282,39.1644367 ]
+    },
+    "properties": {
+    "facility":"PATX",
+    "title":"Patuxent Institution",
+    "locale":"Jessup",
+    "address":"7555 Waterloo Rd, Jessup, MD 20794",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Howard County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.780224,38.360242 ]
+    },
+    "properties": {
+    "facility":"PHPRU",
+    "title":"Poplar Hill Pre-Release Unit",
+    "locale":"Quantico",
+    "address":"24090 Nanticoke Rd, Quantico, MD 21856",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Wicomico County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.725019,39.5646565 ]
+    },
+    "properties": {
+    "facility":"RCI",
+    "title":"Roxbury Correctional Institution",
+    "locale":"Hagerstown",
+    "address":"18556  Roxbury Rd, Hagerstown, MD 21740",
+    "orig_address":"[18556 - 18710] Roxbury Rd, Hagerstown, MD 21740",
+    "facility_type":"correction",
+    "county":"Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.819243,38.509415 ]
+    },
+    "properties": {
+    "facility":"SMPRU",
+    "title":"Southern Maryland Pre-Release Unit",
+    "locale":"Charlotte Hall",
+    "address":"14320 Oaks Rd, Charlotte Hall, MD 20622",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Charles County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.615099,39.308957 ]
+    },
+    "properties": {
+    "facility":"THRESH",
+    "title":"Threshold",
+    "locale":"Baltimore",
+    "address":"1702 St Paul St, Baltimore, MD 21202",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Baltimore City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8145762,39.6086395 ]
+    },
+    "properties": {
+    "facility":"WCI",
+    "title":"Western Correctional Institution",
+    "locale":"Cumberland",
+    "address":"13800 Mcmullen Hwy SW, Cumberland, MD 21502",
+    "orig_address":"",
+    "facility_type":"correction",
+    "county":"Allegany County"
+    }
+  }
+]
+}
