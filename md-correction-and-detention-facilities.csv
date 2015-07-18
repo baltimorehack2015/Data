@@ -1,0 +1,29 @@
+facility,title,locale,address,orig_address,facility_type,longitude,latitude,county
+BCCC,Baltimore City Correctional Center,Baltimore,"901 Greenmount Ave, Baltimore, MD 21202",,correction,-76.6065147,39.3003071,Baltimore City
+BCF,Brockbridge Correctional Facility,Jessup,"7931 Brock Bridge Rd, Jessup, MD 20794",,correction,-76.7729729,39.1339947,Anne Arundel County
+BPRU,Baltimore Pre-Release Unit,Baltimore,"926 Greenmount Ave, Baltimore, MD 21202",,correction,-76.6071109,39.3007264,Baltimore City
+CDF,Chesapeake Detention Facility (Formerly MCAC),Baltimore,"401 E Madison St, Baltimore, MD 21202",,correction,-76.6093735,39.2983454,Baltimore City
+CMCF,Central Maryland Correctional Facility (Formerly CLF),Sykesville,"7301 Buttercup Road, Sykesville, MD 21784",,correction,-76.9568419,39.3706425,Carroll County
+CMHC-J,Correctional Mental Health Center - Jessup,Jessup,"7555 Waterloo Rd, Jessup, MD 20794",,correction,-76.7786282,39.1644367,Howard County
+DRCF,Dorsey Run Correctional Facility,Jessup,"8017 Dorsey Run Road, Jessup, MD 20794",,correction,-76.7867441,39.1494585,Howard County
+ECI,Eastern Correctional Institution,Westover,"30420 Revells Neck Rd, Westover, MD 21890",,correction,-75.7037672,38.1562161,Somerset County
+ECI-A,Eastern Correctional Institution Annex,Westover,"30430 Revells Neck Rd, Westover, MD 21890",,correction,-75.6953037,38.1534918,Somerset County
+EPRU,Eastern Pre-Release Unit,Church Hill,"700 Flat Iron Square Rd, Church Hill, MD 21623",,correction,-75.986322,39.115693,Queen Anne's County
+HDU,Home Detention Unit,Baltimore,"2100 Guilford Ave, Baltimore, MD 21218",,correction,-76.613089,39.313876,Baltimore City
+JCI,Jessup Correctional Institution,Jessup,"7809 House Of Correction Rd, Jessup, MD 20794","[7809 - 7815] House Of Correction Rd, Jessup, MD 20794",correction,-76.7814296,39.1434571,Anne Arundel County
+MCI-H,Maryland Correctional Institution - Hagerstown,Hagerstown,"18460 Roxbury Rd, Hagerstown, MD 21740",,correction,-77.7274082,39.5650229,Washington County
+MCI-J,Maryland Correctional Institution - Jessup,Jessup,"7809 House Of Correction Rd, Jessup, MD 20794","[7809 - 7815] House Of Correction Rd, Jessup, MD 20794",correction,-76.7814296,39.1434571,Anne Arundel County
+MCI-W,Maryland Correctional Institution for Women,Jessup,"7932 Brock Bridge Rd, Jessup, MD 20794",,correction,-76.7735283,39.1343752,Anne Arundel County
+MCPRS,Maryland Correctional Pre-Release System Admin Offices,Jessup,"7930 Brock Bridge Rd, Jessup, MD 20794",,correction,-76.7733041,39.1345148,Anne Arundel County
+MCTC,Maryland Correctional Training Center,Hagerstown,"18551 Roxbury Rd, Hagerstown, MD 21740",,correction,-77.7240434,39.5644831,Washington County
+MRDCC,"Maryland Reception, Diagnostic and Classification Center",Baltimore,"550 E Madison St, Baltimore, MD 21202",,correction,-76.607125,39.299427,Baltimore City
+MTC,Metropolitan Transition Center,Baltimore,"954 Forrest St, Baltimore, MD 21202",,correction,-76.607092,39.29934,Baltimore City
+NBCI,North Branch Correctional Institution,Cumberland,"14100 Mcmullen Hwy Sw, Cumberland, MD 21502",,correction,-78.8188751,39.608067,Allegany County
+PATX,Patuxent Institution,Jessup,"7555 Waterloo Rd, Jessup, MD 20794",,correction,-76.7786282,39.1644367,Howard County
+PHPRU,Poplar Hill Pre-Release Unit,Quantico,"24090 Nanticoke Rd, Quantico, MD 21856",,correction,-75.780224,38.360242,Wicomico County
+RCI,Roxbury Correctional Institution,Hagerstown,"18556  Roxbury Rd, Hagerstown, MD 21740","[18556 - 18710] Roxbury Rd, Hagerstown, MD 21740",correction,-77.725019,39.5646565,Washington County
+SMPRU,Southern Maryland Pre-Release Unit,Charlotte Hall,"14320 Oaks Rd, Charlotte Hall, MD 20622",,correction,-76.819243,38.509415,Charles County
+THRESH,Threshold,Baltimore,"1702 St Paul St, Baltimore, MD 21202",,correction,-76.615099,39.308957,Baltimore City
+WCI,Western Correctional Institution,Cumberland,"13800 Mcmullen Hwy SW, Cumberland, MD 21502",,correction,-78.8145762,39.6086395,Allegany County
+BCBIC,Baltimore Central Booking and Intake Center,Baltimore,"300 E Madison St, Baltimore, MD 21202",,detention,-76.6104373,39.2996554,Baltimore City
+BCDC,Baltimore City Detention Center,Baltimore,"401 E Eager St, Baltimore, MD 21202",,detention,-76.6097048,39.3009474,Baltimore City
